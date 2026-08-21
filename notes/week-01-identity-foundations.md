@@ -66,3 +66,11 @@ David Mensah was assigned the Security Reader role.
 This role was selected because a Security Analyst needs visibility into security information and reports for investigation, but does not require permission to modify security settings.
 
 This follows the principle of least privilege by granting only the access required for the job function.
+
+## Entra Administrative Roles vs Azure RBAC
+
+Microsoft Entra administrative roles control permissions within the identity directory, such as users, groups, authentication, and security administration.
+
+Azure RBAC controls access to Azure resources such as virtual machines, storage accounts, resource groups, and subscriptions.
+
+Entra roles focus on identity administration, while Azure RBAC focuses on Azure resource management.
